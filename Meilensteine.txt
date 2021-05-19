@@ -1,0 +1,13 @@
+Geburt des Servers: ?
+Aktuelles Alter des Servers: ?
+Nutzerrekord auf dem Minecraft-Server: ?
+Historie der Nutzermeilensteine:
+  5: ?
+  10: ?
+  25: ?
+
+Historie der Maximal möglichen Spielerzahl:
+  aktuell: 40
+
+Historie des Server-Hostings:
+  aktuell: Neruxvace Cloud-Server
