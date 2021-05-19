@@ -1,0 +1,19 @@
+Kapital zu Quartalsbeginn:
+  Server: 0,00€
+  Privatinvestition: 70,00 €
+  Gesamt: 70,00 €
+
+Einkommen:
+  Keine Einnahmequellen -> 0,00 €
+
+Ausgaben:
+  MVP+ Rang (ein Jahr gültig) zum Betreiben des Servers: 70,00 €
+  Team: Teammitglieder arbeiten freiwillig am Server mit. -> 0,00 €
+  Gesamt: 70,00 €
+
+SUMME:
+  K 70,00 €
+  + 00,00 €
+  - 70,00 €
+  —————————
+    00,00 €
