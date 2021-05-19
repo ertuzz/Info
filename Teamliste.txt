@@ -1,0 +1,31 @@
+Rang:
+  Ingame-Name | im Team Seit | Aufgabe
+
+Administratoren:
+  Screw_Driver1 | Gründung | Serverleitung
+  Manfusel
+  hopesless
+
+Development:
+  MCLP2005 | ? | Website-Entwicklung und Instandhaltung
+
+Content:
+  IBimsFxlix
+
+Senior-Moderation:
+  Finn_Boe
+
+Moderation:
+  
+
+Co-Moderation:
+  Namenslxs
+  ohHertha
+
+Test-Moderation:
+  zImDxrty
+  Forsining
+  JiraiyaFNA
+
+Bauteam:
+  
