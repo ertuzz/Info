@@ -7,7 +7,10 @@ Administratoren:
   hopesless
 
 Development:
-  MCLP2005 | 2021/04/01 | Website-Entwicklung und Instandhaltung
+  Game:
+    
+  Web:
+    MCLP2005 | 2021/04/01 | Entwicklung und Instandhaltung
 
 Content:
   IBimsFxlix
