@@ -1,19 +1,19 @@
 Kapital zu Quartalsbeginn:
   Server: 0,00€
-  Privatinvestition: 70,00 €
-  Gesamt: 70,00 €
+  Privatinvestition: 64,99 €
+  Gesamt: 64,99 €
 
 Einkommen:
   Keine Einnahmequellen -> 0,00 €
 
 Ausgaben:
-  MVP+ Rang (ein Jahr gültig) zum Betreiben des Servers: 70,00 €
+  Neruxvace PServer-Bundle: 64,99 €
   Team: Teammitglieder arbeiten freiwillig am Server mit. -> 0,00 €
-  Gesamt: 70,00 €
+  Gesamt: 64,99 €
 
 SUMME:
-  K 70,00 €
+  K 64,99 €
   + 00,00 €
-  - 70,00 €
+  - 64,99 €
   —————————
     00,00 €
