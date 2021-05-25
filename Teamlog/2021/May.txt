@@ -7,3 +7,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 2021/05/16@08:25.UTC2+ | gooseman67 | Mitglied | Hat freiwillig das Team verlassen | Co-Moderator
 2021/05/18@20:34.UTC2+ | JiraiyaFNA | Test-Moderator | Bewerbung
 2021/05/19@20:19.UTC2+ | Finn_Boe | Senior-Moderator | Beförderung | Moderator
+2021/05/25@18:55.UTC2+ | JiraiyaFNA | Co-Moderator | Beförderung | Test-Moderator
