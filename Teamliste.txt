@@ -24,11 +24,11 @@ Moderation:
 Co-Moderation:
   Namenslxs
   ohHertha
+  JiraiyaFNA
 
 Test-Moderation:
   zImDxrty
   Forsining
-  JiraiyaFNA
 
 Senior-Architekt:
   
