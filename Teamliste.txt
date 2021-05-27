@@ -3,8 +3,8 @@ Rang:
 
 Administratoren:
   Screw_Driver1 | Gründung | Serverleitung
-  Manfusel
-  hopesless
+  JiraiyaFNA
+  Finn_Boe
 
 Development:
   Game:
@@ -16,18 +16,15 @@ Content:
   IBimsFxlix
 
 Senior-Moderation:
-  Finn_Boe
-
-Moderation:
   
 
-Co-Moderation:
+Moderation:
   Namenslxs
+
+Co-Moderation:
   ohHertha
-  JiraiyaFNA
 
 Test-Moderation:
-  zImDxrty
   Forsining
 
 Senior-Architekt:
