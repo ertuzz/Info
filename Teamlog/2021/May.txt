@@ -8,3 +8,9 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 2021/05/18@20:34.UTC2+ | JiraiyaFNA | Test-Moderator | Bewerbung
 2021/05/19@20:19.UTC2+ | Finn_Boe | Senior-Moderator | Beförderung | Moderator
 2021/05/25@18:55.UTC2+ | JiraiyaFNA | Co-Moderator | Beförderung | Test-Moderator
+2021/05/27@18:25.UTC2+ | hopesless | <BANNED> | Teamkick | Administrator
+2021/05/27@18:25.UTC2+ | Manfusel | <BANNED> | Teamkick | Administrator
+2021/05/27@18:27.UTC2+ | JiraiyaFNA | Administrator | Beförderung | Co-Moderator
+2021/05/27@18:29.UTC2+ | Finn_Boe | Administrator | Beförderung | Senior-Moderator
+2021/05/27@20:18.UTC2+ | Namenslxs | Moderator | Beförderung | Co-Moderator
+2021/05/27@20:18.UTC2+ | zImDxrty | Kein Teammitglied mehr | Teamkick wegen Inaktivität | Test-Moderator
