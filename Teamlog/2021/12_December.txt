@@ -1,0 +1,13 @@
+Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
+
+
+!! Achtung: Durch anstehende Neueröffnung komplette Zurücksetzung des Teams.
+
+
+
+-----------------------------------------------------------------------------------
+
+26@19:40.UTC+1 | Screw_Driver1 | Bereichsleitung
+26@19:40.UTC+1 | einsFinn | Bereichsleitung
+26@19:40.UTC+1 | Manfusel | Bereichsleitung
+26@19:40.UTC+1 | MCLP2005 | Bereichsleitung

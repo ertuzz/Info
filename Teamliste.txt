@@ -1,35 +1,17 @@
-Rang:
-  Ingame-Name | im Team Seit | Aufgabe
+Bereichsleitungen:
+  Screw_Driver1
+    Teambeitritt: Gründung
+    Bereich:
+      Content
+      Public Relations
+      Staff-Team
 
-Administratoren:
-  Screw_Driver1 | Gründung | Serverleitung
-  JiraiyaFNA
-  Finn_Boe
+  einsFinn
+    Bereich: Content
 
-Development:
-  Game:
-    
-  Web:
-    MCLP2005 | 2021/04/01 | Entwicklung und Instandhaltung
+  MCLP2005
+    Teambeitritt: 2021/04/01
+    Bereich: Building
 
-Content:
-  IBimsFxlix
-
-Senior-Moderation:
-  
-
-Moderation:
-  Namenslxs
-
-Co-Moderation:
-  ohHertha
-
-Test-Moderation:
-  Forsining
-
-Senior-Architekt:
-  
-
-Architekt:
-  Cookie964
-  Am_Nexven
+  Manfusel
+    Bereich: Moderation
