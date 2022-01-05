@@ -6,7 +6,7 @@ einen PvP (Player versus Player), also einem Kampfserver.
 
 Wie komme ich auf den Server?
 
-Auf den Minecraft Server kommt man über die Domain `ertuzz.neruxvace.cloud`.
+Auf den Minecraft Server kommt man über die Domain `ErtuzzPvP.neruxvace.cloud`.
 
 Da der Minecraft-Server nicht 24/7 online ist, ist es empfehlenswert, auf dem Offiziellen Discord-Server von ErtuzzPvP zu sein. Dort gibt es einen Kanal,
 der den aktuellen Status des Minecraft-Servers anzeigt. Diesen erreicht ihr mit dem Einladungscode `HDm59YCWG8` oder über https://discord.gg/HDm59YCWG8
@@ -15,8 +15,8 @@ Auf die Website kommt man ganz normal über den Webbrowser, mit Hilfe der Domain
 
 Wer steckt hinter ErtuzzPvP?
 
-Dies könnt ihr im Impressum nachlesen. Jedoch ist dies nicht der einzige, der dahinter steckt. Wir sind ein aktuell freiwilliges Team aus 10 Personen. 
-Noch ist der Server in einem Non-Profit-Schema aufgebaut. das heißt, aktuell verdient keiner auch nur einen einzigen Cent daran. 
+Dies könnt ihr im Impressum nachlesen. Jedoch ist dies nicht der einzige, der dahinter steckt. Wir sind ein aktuell freiwilliges Team aus 5 Personen.
+Noch ist der Server in einem Non-Profit-Schema aufgebaut. das heißt, aktuell verdient keiner auch nur einen einzigen Cent daran.
 Dies wird sich aber in ein Paar Jahren ändern. Aktuell reichen die Konstanten Spielerzahlen nicht aus, um dieses Projekt auf Kostenpflichtige Server laufen zu lassen.
 Wenn die Spielerzahlen während aktiver Phasen an unsere Limits steigen, werden wir selbstverständlich einen Umzug auf eigene Hardware vornehmem, was dann wiederum
 Gewerbepflichtig wäre, da wir zum finanzieren des Servers nicht grade die geringsten Ausgaben hätten und somit einen Rangshop eröffnen müssten.
