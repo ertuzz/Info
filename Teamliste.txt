@@ -1,20 +1,21 @@
 Bereichsleitungen:
-  Screw_Driver1
-    Teambeitritt: Gründung
-    Bereich:
-      Content
-      Public Relations
-      Staff-Team
 
   einsFinn
     Bereich: Content
+
+  Manfusel
+    Bereich: Moderation
 
   MCLP2005
     Teambeitritt: 2021/04/01
     Bereich: Building
 
-  Manfusel
-    Bereich: Moderation
+  Screw_Driver1
+    Teambeitritt: Gründung
+    Bereich:
+    Content
+    Public Relations
+    Staff-Team
 
 Moderation:
   JxhnnyGHG
