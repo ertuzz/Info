@@ -3,3 +3,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 ------------------------------
 
 05@18:10.UTC+1 | JxhnnyGHG | Moderator
+30@21:11.UTC+1 | JxhnnyGHG | Administrator

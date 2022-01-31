@@ -1,26 +1,36 @@
-Bereichsleitungen:
+Administration:
 
-  einsFinn
-    Bereich: Content
-
-  Manfusel
+  einsFinn:
     Bereich: Moderation
 
-  MCLP2005
-    Teambeitritt: 2021/04/01
-    Bereich: Building
+  Manfusel:
+    Bereich:
+      Building
+      Content
 
-  Screw_Driver1
+  Screw_Driver1:
     Teambeitritt: Gründung
     Bereich:
-    Content
-    Public Relations
-    Staff-Team
+      Development
 
+  JxhnnyGHG:
+    Bereich:
+      Moderation
+      Content
 
 Moderation:
-  JxhnnyGHG
 
+  MCLP2005:
+    Teambeitritt: 2021/04/01
+
+Development:
+
+  MCLP2005:
+    Teambeitritt: 2021/04/01
+    Bereich:
+      Website
+      Forum
 
 Bauteam:
+
   Tmt_10tp
