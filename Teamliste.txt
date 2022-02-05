@@ -35,6 +35,9 @@ Moderation:
   FourJust
     T-Mod
 
+  yVerplanter
+    T-Mod
+
 Bauteam:
 
   Tmt_10tp
