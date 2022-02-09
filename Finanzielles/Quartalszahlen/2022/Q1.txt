@@ -1,0 +1,18 @@
+Kapital zu Quartalsbeginn:
+  Server: 0,00€
+  Privatinvestition: 0,00 €
+  Gesamt: 0,00 €
+
+Einkommen:
+  Keine Einnahmequellen -> 0,00 €
+
+Ausgaben:
+  Team: Teammitglieder arbeiten freiwillig am Server mit. -> 0,00 €
+  Gesamt: 0,00 €
+
+SUMME:
+  K 0,00 €
+  + 0,00 €
+  - 0,00 €
+  ————————
+    0,00 €
