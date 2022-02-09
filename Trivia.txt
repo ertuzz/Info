@@ -1,0 +1,7 @@
+Geburt des Servers: 2021/03/28
+Historie der Maximal möglichen Spielerzahl:
+  ab 2022/02/01: 30
+  Gründung: 40
+
+Historie des Server-Hostings:
+  aktuell: Neruxvace Cloud-Server
