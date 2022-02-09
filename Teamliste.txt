@@ -1,12 +1,14 @@
 Administration:
 
   einsFinn:
-    Bereich: Moderation, Human Resources
+    Bereich:
+      Moderation
+      Human Resources
 
   Manfusel:
     Bereich:
       Building
-      Content
+      Moderation
 
   Screw_Driver1:
     Teambeitritt: Gründung
