@@ -9,7 +9,7 @@ Wie komme ich auf den Server?
 Auf den Minecraft Server kommt man über die Domain `Ertuzz.neruxvace.cloud`.
 
 Da der Minecraft-Server nicht 24/7 online ist, ist es empfehlenswert, auf dem Offiziellen Discord-Server von ErtuzzPvP zu sein. Dort gibt es einen Kanal,
-der den aktuellen Status des Minecraft-Servers anzeigt. Diesen erreicht ihr mit dem Einladungscode `HDm59YCWG8` oder über https://discord.gg/HDm59YCWG8
+der den aktuellen Status des Minecraft-Servers anzeigt. Diesen erreicht ihr mit dem Einladungscode `fha3WAYten` oder über https://discord.gg/fha3WAYten
 
 Auf die Website kommt man ganz normal über den Webbrowser, mit Hilfe der Domain `ertuzz.github.io`
 
