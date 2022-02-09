@@ -1,0 +1,8 @@
+Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
+
+------------------------------
+
+01 | oiar | Content | Teamaufnahme
+01 | FourJust | T-Mod | Testphase nach Bewerbungsannahme
+06 | yVerplanter | T-Mod | Testphase nach Bewerbungsannahme
+07 | FourJust | Moderator | Testphase bestanden | T-Mod
