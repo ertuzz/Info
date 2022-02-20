@@ -19,7 +19,7 @@ Administration:
   JxhnnyGHG:
     Bereich:
       Moderation
-      Content
+      Game Design
 
 Development:
 
@@ -28,7 +28,7 @@ Development:
     Bereich:
       Website
       Forum
-Content:
+Game Design(ehem. Content):
   oiar
     Testprojekt
 
