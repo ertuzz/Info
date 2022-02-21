@@ -5,9 +5,9 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 01 | Tmt_10tp | Builder | Teamaufnahme
 01 | oiar | Content | Teamaufnahme
 01 | FourJust | T-Mod | Testphase nach Bewerbungsannahme
-06 | yVerplanter | T-Mod | Testphase nach Bewerbungsannahme
+?? | yVerplanter | T-Mod | Testphase nach Bewerbungsannahme
 07 | FourJust | Moderator | Testphase bestanden | T-Mod
-08 | yVerplanter | Moderator | Testphase bestanden | T-Mod
-09 | MeldronFNA | T-Mod | Testphase nach Bewerbungsannahme
-10 | FourJust | Senior Moderator | Beförderung | Moderator
-11 | MeldronFNA | Moderator | Testphase bestanden | T-Mod
+12 | yVerplanter | Moderator | Testphase bestanden | T-Mod
+?? | MeldronFNA | T-Mod | Testphase nach Bewerbungsannahme
+19 | FourJust | Senior Moderator | Beförderung | Moderator
+20 | MeldronFNA | Moderator | Testphase bestanden | T-Mod
