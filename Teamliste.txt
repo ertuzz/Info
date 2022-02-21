@@ -2,25 +2,24 @@ Administration:
 
   einsFinn:
     Bereich:
-      Moderation
       Human Resources
 
-  MCLP2005:
-    Teambeitritt: 2021/04/01
-    Bereich:
-      Development
-      Moderation
-
+  
   Screw_Driver1:
     Teambeitritt: Gründung
     Bereich:
       Building
+      Development
       Public Relations
 
   JxhnnyGHG:
     Bereich:
       Moderation
       Game Design
+
+Development
+  MCLP2005:
+    Teambeitritt: 2021/04/01
 
 Game Design(ehem. Content):
   oiar
