@@ -5,29 +5,22 @@ Administration:
       Moderation
       Human Resources
 
-  Manfusel:
+  MCLP2005:
+    Teambeitritt: 2021/04/01
     Bereich:
-      Building
+      Development
       Moderation
 
   Screw_Driver1:
     Teambeitritt: Gründung
     Bereich:
-      Development
+      Building
       Public Relations
 
   JxhnnyGHG:
     Bereich:
       Moderation
       Game Design
-
-Development:
-
-  MCLP2005:
-    Teambeitritt: 2021/04/01
-    Bereich:
-      Website
-      Forum
 
 Game Design(ehem. Content):
   oiar

@@ -11,3 +11,5 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 ?? | MeldronFNA | T-Mod | Testphase nach Bewerbungsannahme
 19 | FourJust | Senior Moderator | Beförderung | Moderator
 20 | MeldronFNA | Moderator | Testphase bestanden | T-Mod
+21 | Manfusel | VIP | Teamkick aufgrund von inaktivität | Administration
+21 | MCLP2005 | Administration | Beförderung | Development
