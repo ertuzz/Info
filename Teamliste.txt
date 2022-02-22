@@ -20,6 +20,9 @@ Administration:
 Development
   MCLP2005:
     Teambeitritt: 2021/04/01
+    Bereiche:
+      Website
+      Forum
 
 Game Design(ehem. Content):
   oiar
