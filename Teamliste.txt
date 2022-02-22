@@ -3,6 +3,8 @@ Administration:
   einsFinn:
     Bereich:
       Human Resources
+      Game Design
+      Development
 
   
   Screw_Driver1:
