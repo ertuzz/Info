@@ -4,13 +4,11 @@ Administration:
     Bereich:
       Human Resources
       Game Design
-      Development
 
   
   Screw_Driver1:
     Teambeitritt: Gründung
     Bereich:
-      Building
       Development
       Public Relations
 
@@ -18,6 +16,11 @@ Administration:
     Bereich:
       Moderation
       Game Design
+  
+  Manfusel:
+    Bereich:
+      Building
+      Moderation
 
 Development
   MCLP2005:
