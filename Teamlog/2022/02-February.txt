@@ -13,3 +13,5 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 20 | MeldronFNA | Moderator | Testphase bestanden | T-Mod
 21 | Manfusel | VIP | Teampause | Administration
 23 | Manfusel | Administration | Teampause beendet | VIP
+25 | einsMaxx | T-Mod | Testphase nach Bewerbungsannahme
+26 | einsMaxx | MVP | Testphase nicht bestanden | T-Mod
