@@ -15,3 +15,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 23 | Manfusel | Administration | Teampause beendet | VIP
 25 | einsMaxx | T-Mod | Testphase nach Bewerbungsannahme
 26 | einsMaxx | MVP | Testphase nicht bestanden | T-Mod
+27 | CallMeWoopf | T-Mod | Testphase nach Bewerbungsannahme
