@@ -1,18 +1,19 @@
 Kapital zu Quartalsbeginn:
   Server: 0,00€
-  Privatinvestition: 0,00 €
-  Gesamt: 0,00 €
+  Privatinvestition: 8,81 €
+  Gesamt: 8,81 €
 
 Einkommen:
   Keine Einnahmequellen -> 0,00 €
 
 Ausgaben:
   Team: Teammitglieder arbeiten freiwillig am Server mit. -> 0,00 €
-  Gesamt: 0,00 €
+  Domain (ertuzz.net): 8,81 €
+  Gesamt: 8,81 €
 
 SUMME:
-  K 0,00 €
+  K 8,81 €
   + 0,00 €
-  - 0,00 €
+  - 8,81 €
   ————————
     0,00 €
