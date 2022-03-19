@@ -17,17 +17,11 @@ Administration:
       Moderation
       Game Design
   
-  Manfusel:
-    Bereich:
-      Building
-      Moderation
-
-Development
   MCLP2005:
     Teambeitritt: 2021/04/01
-    Bereiche:
-      Website
-      Forum
+    Bereich:
+      Development
+      Building
 
 Game Design(ehem. Content):
   oiar
@@ -37,10 +31,8 @@ Senior Moderation:
   FourJust
 
 Moderation:
-  yVerplanter
   MeldronFNA
   CallMeWoopf
-   Testphase
   
 Community Supporter:
   Melone313

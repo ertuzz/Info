@@ -3,3 +3,6 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 ------------------------------
 
 05 | yVerplanter | <Teamkick> | Inaktivität | Moderator
+19 | Manfusel | <Blacklist> | Unangemessenes Verhalten | Administration
+19 | MCLP2005 | Administration | Beförderung | Development
+19 | CallMeWoopf | Moderation | Testphase bestanden | Test-Moderation
