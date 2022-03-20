@@ -24,8 +24,6 @@ Administration:
       Building
 
 Game Design(ehem. Content):
-  oiar
-    Testprojekt
 
 Senior Moderation:
   FourJust
@@ -39,3 +37,4 @@ Community Supporter:
   
 Bauteam:
   Tmt_10tp
+  oiar
