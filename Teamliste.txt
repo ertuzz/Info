@@ -33,10 +33,7 @@ Moderation:
   MeldronFNA
   CallMeWoopf
 
-  
-Community Supporter:
-
-Senior Buildteam:
+Senior Bauteam:
   Manfusel
   
 Bauteam:
