@@ -8,3 +8,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 19 | CallMeWoopf | Moderation | Testphase bestanden | Test-Moderation
 20 | oiar | Builder | Umentscheidung | GameDesign
 21 | Melone313 | GameDesign | Umentscheidung | Community Support
+24 | Manfusel | SrBuild | Wiederaufnahme | VIP
