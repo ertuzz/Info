@@ -3,20 +3,19 @@ Administration:
   einsFinn:
     Bereich:
       Human Resources
-      Game Design
 
-  
+
   Screw_Driver1:
     Teambeitritt: Gründung
     Bereich:
-      Development
+      Game Design
       Public Relations
 
   JxhnnyGHG:
     Bereich:
       Moderation
       Game Design
-  
+
   MCLP2005:
     Teambeitritt: 2021/04/01
     Bereich:
@@ -25,7 +24,7 @@ Administration:
 
 Game Design(ehem. Content):
   Melone313
-  
+
 Senior Moderation:
   FourJust
 
@@ -35,7 +34,7 @@ Moderation:
 
 Senior Bauteam:
   Manfusel
-  
+
 Bauteam:
   Tmt_10tp
   oiar
