@@ -1,6 +1,6 @@
 Administration:
 
-  einsFinn:
+  Screw_Finn:
     Bereich:
       Human Resources
 
