@@ -9,3 +9,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 20 | oiar | Builder | Umentscheidung | GameDesign
 21 | Melone313 | GameDesign | Umentscheidung | Community Support
 24 | Manfusel | SrBuild | Wiederaufnahme | VIP
+26 | Kevinyo123 | Developer | Bestandene Bewerbung | Elite
