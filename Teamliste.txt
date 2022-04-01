@@ -26,15 +26,15 @@ Development:
   Kevinyo123
     Ingame
 
-Game Design(ehem. Content):
-  Melone313
-
 Senior Moderation:
   FourJust
 
 Moderation:
   MeldronFNA
   CallMeWoopf
+
+Test Moderation:
+  Melone313
 
 Senior Bauteam:
   Manfusel
