@@ -1,1 +1,5 @@
+Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 
+------------------------------
+
+07 | oiar | <Teamkick> | Häufigeres Fehlverhalten | Builder
