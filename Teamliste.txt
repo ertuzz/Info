@@ -1,44 +1,33 @@
-Administration:
-
-  Screw_Finn:
-    Bereich:
-      Human Resources
-
-
+Owner:
   Screw_Driver1:
     Teambeitritt: Gründung
     Bereich:
       Public Relations
-
+Administration:
+  Screw_Finn:
+    Bereich:
+      Human Resources
   JxhnnyGHG:
     Bereich:
       Moderation
       Game Design
-
   MCLP2005:
     Teambeitritt: 2021/04/01
     Bereich:
       Development
       Building
-
 Development:
   Kevinyo123
     Ingame
-
 Senior Moderation:
   FourJust
-
 Moderation:
   MeldronFNA
   CallMeWoopf
   Melone313
-
 Test Moderation:
-
-
 Senior Bauteam:
   Manfusel
-
 Bauteam:
   Tmt_10tp
   Y_Jason_Y
