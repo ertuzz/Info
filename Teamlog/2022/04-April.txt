@@ -4,3 +4,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 
 07 | oiar | <Teamkick> | Häufigeres Fehlverhalten | Builder
 18 | Screw_Driver1 | Owner | Beförderung durch abstimmung in der Administration | Administrator
+19 | xVerlixbter | Game Design | Teamaufnahme nach Bewerbungsgespräch
