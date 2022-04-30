@@ -1,5 +1,5 @@
 # Info
-Was ist ErtuzzPvP?:
+Was ist Ertuzz?:
 
 Ertuzz ist ein Netzwerk, welches aktuell aus einer Website, dem Minecraft-Server und dem Discord-Server besteht. Bei dem Minecraft-Server handelt es sich um
 einen PvP (Player versus Player), also einem Kampfserver.
@@ -13,9 +13,9 @@ der den aktuellen Status des Minecraft-Servers anzeigt. Diesen erreicht ihr mit 
 
 Auf die Website kommt man ganz normal über den Webbrowser, mit Hilfe der Domain `ertuzz.net`
 
-Wer steckt hinter ErtuzzPvP?
+Wer steckt hinter Ertuzz?
 
-Dies könnt ihr im Impressum nachlesen. Jedoch ist dies nicht der einzige, der dahinter steckt. Wir sind ein aktuell freiwilliges Team aus 13 Personen.
+Dies könnt ihr im Impressum nachlesen. Jedoch ist dies nicht der einzige, der dahinter steckt. Wir sind ein aktuell freiwilliges Team aus 14 Personen.
 Noch ist der Server in einem Non-Profit-Schema aufgebaut. das heißt, aktuell verdient keiner auch nur einen einzigen Cent daran.
 Dies wird sich aber in ein Paar Jahren ändern. Aktuell reichen die Konstanten Spielerzahlen nicht aus, um dieses Projekt auf Kostenpflichtige Server laufen zu lassen.
 Wenn die Spielerzahlen während aktiver Phasen an unsere Limits steigen, werden wir selbstverständlich einen Umzug auf eigene Hardware vornehmem, was dann wiederum

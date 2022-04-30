@@ -1,22 +1,22 @@
-Owner:
-  Screw_Driver1:
-    Teambeitritt: Gründung
-    Bereich:
-      Public Relations
-Administration:
+Admin:
   Screw_Finn:
     Bereich:
-      Human Resources
+      Public Relations
+Bereichsleitung:
+  Screw_Driver1:
+    Bereich:
+      Game Design
   JxhnnyGHG:
     Bereich:
       Moderation
-      Game Design
   MCLP2005:
     Teambeitritt: 2021/04/01
     Bereich:
       Development
+  Manfusel:
+    Bereich:
       Building
-Development:
+SrDevelopment:
   Kevinyo123
     Ingame
 Senior Moderation:
@@ -26,10 +26,9 @@ Moderation:
   CallMeWoopf
   Melone313
 Test Moderation:
-Game Design:
-  xVerlixbter
-Senior Bauteam:
-  Manfusel
+LegendLoveCR
 Bauteam:
   Tmt_10tp
   Y_Jason_Y
+Design:
+  Lea<3#5033

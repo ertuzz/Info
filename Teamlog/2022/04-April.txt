@@ -4,4 +4,14 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 
 07 | oiar | <Teamkick> | Häufigeres Fehlverhalten | Builder
 18 | Screw_Driver1 | Owner | Beförderung durch abstimmung in der Administration | Administrator
-19 | xVerlixbter | Game Design | Teamaufnahme nach Bewerbungsgespräch
+19 | xVerlixbter | Game Design | Teamaufnahme nach Bewerbungsgespräch | Spieler
+23 | Lea<3#5033 | Spieler | Teamaufnahme nach Bewerbungsgespräch | Design
+
+------------------------------
+
+Umstrukturierung Team Ränge
+
+29 - 1 | Screw_Finn | Admin | Temporäre Übernahme des Teams | Bereichsleitung Game Design
+29 - 2 | Screw_Driver1 | Bereichsleitung Game Design | Siehe 29 - 1 | Admin
+29 - 3 | Manfusel | Bereichsleitung Building | Beförderung | SrBuild
+
