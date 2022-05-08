@@ -1,7 +1,7 @@
 Geburt des Servers: 2021/03/28
 Historie der Maximal möglichen Spielerzahl:
+  ab 2022/04/18: 50
   ab 2022/02/01: 30
-  ab 2022/04/18 : 50
   Gründung: 40
 
 Historie des Server-Hostings:
