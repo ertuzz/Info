@@ -6,4 +6,5 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 10 | BrainLxg_ | T-Mod | Nach Bewerbungsgespräch | Spieler
 11 | nofxxlinqs | T-Mod | Nach Bewerbungsgespräch | YouTuber
 14 | LegendLoveCR | Mod | Testphase bestanden | T-Mod
-21 | nofxxlinqs | T-Mod | Testphase bestanden | Mod
+21 | nofxxlinqs | Mod | Testphase bestanden | T-Mod
+21 | Tmt_10tp | Mod | Testphase bestanden | T-Mod
