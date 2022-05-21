@@ -25,11 +25,10 @@ Moderation:
   MeldronFNA
   CallMeWoopf
   Melone313
-Test Moderation:
   LegendLoveCR
+Test Moderation:
   Tmt_10tp
   BrainLxg_
-  nofxxlinqs
 Bauteam:
   Y_Jason_Y
 Design:
