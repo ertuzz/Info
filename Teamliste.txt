@@ -1,9 +1,9 @@
-Admin:
-  Screw_Finn
+Owner:
   Screw_Driver1
-  JxhnnyGHG
-  MCLP2005
-    Teambeitritt: 2021/04/01
+Admin:
+  MCLP2005 [Development]
+  Screw_Finn [GameDesign]
+  JxhnnyGHG [Moderation]
 SrDevelopment:
   Kevinyo123
     Ingame
@@ -21,5 +21,3 @@ Bauteam:
   Y_Jason_Y
   Gecoded
   LvckyFelix
-Design:
-  Lea<3#5033
