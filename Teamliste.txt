@@ -1,10 +1,10 @@
 Owner:
-  Screw_Driver1
+  Nahverkehr
 Admin:
   MCLP2005 [Development]
   Screw_Finn [GameDesign]
   JxhnnyGHG [Moderation]
-SrDevelopment:
+Senior Development:
   Kevinyo123
     Ingame
 Senior Moderation:
@@ -14,9 +14,6 @@ Moderation:
   Melone313
   LegendLoveCR
   nofxxlinqs
-  Tmt_10tp
-Test Moderation:
-  BrainLxg_
 Bauteam:
   Y_Jason_Y
   Gecoded
