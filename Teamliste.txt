@@ -1,21 +1,9 @@
 Admin:
-  Screw_Finn:
-    Bereich:
-      Public Relations
-Bereichsleitung:
-  Screw_Driver1:
-    Bereich:
-      Game Design
-  JxhnnyGHG:
-    Bereich:
-      Moderation
-  MCLP2005:
+  Screw_Finn
+  Screw_Driver1
+  JxhnnyGHG
+  MCLP2005
     Teambeitritt: 2021/04/01
-    Bereich:
-      Development
-  Manfusel:
-    Bereich:
-      Building
 SrDevelopment:
   Kevinyo123
     Ingame
@@ -32,5 +20,7 @@ Test Moderation:
   BrainLxg_
 Bauteam:
   Y_Jason_Y
+  Gecoded
+  LvckyFelix
 Design:
   Lea<3#5033
