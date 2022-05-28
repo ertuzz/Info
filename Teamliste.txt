@@ -4,11 +4,10 @@ Admin:
   MCLP2005 [Development]
   Screw_Finn [GameDesign]
   JxhnnyGHG [Moderation]
+  BtwAnanas_ [Promotion]
 Senior Development:
   Kevinyo123
     Ingame
-Senior Moderation:
-  FourJust
 Moderation:
   MeldronFNA
   Melone313

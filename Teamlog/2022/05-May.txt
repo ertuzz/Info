@@ -13,3 +13,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 27 | LvckyFelix | T-Builder | Nach Bewerbungsgespräch | Spieler
 27 | Gecoded | T-Builder | Nach Bewerbungsgespräch | Spieler
 27 | CallMeWoopf | Hero | Teamleave (Eigenwunsch) | Mod
+28 | BtwAnanas_ | Admin | Beförderung | SrMod
