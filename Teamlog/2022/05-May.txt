@@ -15,11 +15,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 27 | CallMeWoopf | Hero | Teamleave (Eigenwunsch) | Mod
 <<<<<<< Updated upstream
 28 | BtwAnanas_ (FourJust) | Admin | Beförderung | SrMod
-=======
-<<<<<<< HEAD
-28 | BtwAnanas_ | Admin | Beförderung | SrMod
 29 | nofxxlinqs | Spieler | Teamkick | Mod
-=======
-28 | BtwAnanas_ (FourJust) | Admin | Beförderung | SrMod
->>>>>>> 10cbd8e4556d9d793d327f7968eade46b06bcd93
->>>>>>> Stashed changes
