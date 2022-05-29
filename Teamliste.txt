@@ -12,7 +12,6 @@ Moderation:
   MeldronFNA
   Melone313
   LegendLoveCR
-  nofxxlinqs
 Bauteam:
   Y_Jason_Y
   Gecoded
