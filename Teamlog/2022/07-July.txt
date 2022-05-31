@@ -1,0 +1,3 @@
+Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
+
+------------------------------
