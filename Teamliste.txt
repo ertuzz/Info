@@ -17,4 +17,5 @@ Bauteam:
   Gecoded
   LvckyFelix
 Design:
-  Mr_Oof
+  TheDripInPerson
+  UltraCypher122

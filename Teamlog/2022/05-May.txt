@@ -16,4 +16,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 <<<<<<< Updated upstream
 28 | BtwAnanas_ (FourJust) | Admin | Beförderung | SrMod
 29 | nofxxlinqs | Spieler | Teamkick | Mod
-31 | Mr_Oof | Designer | Nach Bewerbungsgespräch | Spieler
+31 | TheDripInPerson | Designer | Nach Bewerbungsgespräch | Spieler
