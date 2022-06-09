@@ -3,7 +3,7 @@ Owner:
 Admin:
   MCLP2005 [Development & Build]
   Screw_Finn [GameDesign]
-  JxhnnyGHG [Moderation]
+  Paradoxismus (JxhnnyGHG) [Moderation]
   BtwAnanas_ [Public Relations]
 Senior Development:
   Kevinyo123
