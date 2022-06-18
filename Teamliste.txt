@@ -8,14 +8,12 @@ Admin:
 Senior Development:
   Kevinyo123
     Ingame
+Development:
+  Gamer_Bjoern
 Moderation:
   MeldronFNA
   Melone313
-  LegendLoveCR
-Bauteam:
-  Y_Jason_Y
-  Gecoded
-  LvckyFelix
+  Legond (LegendLoveCR)
 Design:
   TheDripInPerson
   MS:UltraCypher122

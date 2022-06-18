@@ -4,3 +4,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 
 3 | MS:UltraCypher122 | Designer | Nach Bewerbungsgespräch | God
 14 | Gamer_Bjoern | Developer | Umentscheidung nach Testphase | T-Moderation
+18 | LvckyFelix | <Teamleave> | Hat das Team freiwillig verlassen und somit die Testphase abgebrochen. | T-Builder

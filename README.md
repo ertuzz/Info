@@ -15,7 +15,7 @@ Auf die Website kommt man ganz normal über den Webbrowser, mit Hilfe der Domain
 
 Wer steckt hinter Ertuzz?
 
-Dies könnt ihr im Impressum nachlesen. Jedoch ist dies nicht der einzige, der dahinter steckt. Wir sind ein aktuell freiwilliges Team aus 14 Personen.
+Dies könnt ihr im Impressum nachlesen. Jedoch ist dies nicht der einzige, der dahinter steckt. Wir sind ein aktuell freiwilliges Team aus 12 Personen.
 Noch ist der Server in einem Non-Profit-Schema aufgebaut. das heißt, aktuell verdient keiner auch nur einen einzigen Cent daran.
 Dies wird sich aber in ein Paar Jahren ändern. Aktuell reichen die Konstanten Spielerzahlen nicht aus, um dieses Projekt auf Kostenpflichtige Server laufen zu lassen.
 Wenn die Spielerzahlen während aktiver Phasen an unsere Limits steigen, werden wir selbstverständlich einen Umzug auf eigene Hardware vornehmem, was dann wiederum
