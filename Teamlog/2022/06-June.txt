@@ -3,3 +3,4 @@ Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 ------------------------------
 
 3 | MS:UltraCypher122 | Designer | Nach Bewerbungsgespräch | God
+14 | Gamer_Bjoern | Developer | Umentscheidung nach Testphase | T-Moderation
