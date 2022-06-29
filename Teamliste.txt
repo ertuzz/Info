@@ -10,9 +10,10 @@ Senior Development:
     Ingame
 Development:
   Gamer_Bjoern
+Senior Moderation:
+  Melone313
 Moderation:
   MeldronFNA
-  Melone313
   Legond (LegendLoveCR)
 Design:
   TheDripInPerson
