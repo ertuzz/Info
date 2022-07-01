@@ -1,3 +1,5 @@
 Datum@Uhrzeit.Zeitzone | Name | Rang | Grund | <vorheriger Rang>
 
 ------------------------------
+
+01 | DerGecko92 | Game-Designer | Annahme nach Bewerbungsgespräch | Spieler

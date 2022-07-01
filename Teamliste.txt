@@ -10,6 +10,8 @@ Senior Development:
     Ingame
 Development:
   Gamer_Bjoern
+Game-Design:
+  DerGecko92
 Senior Moderation:
   Melone313
 Moderation:
