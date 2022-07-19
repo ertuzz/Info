@@ -1,22 +1,23 @@
 Owner:
   Nahverkehr
 Admin:
-  MCLP2005 [Development & Build]
-  Screw_Finn [GameDesign]
+  MCLP2005 [Development]
+  Screw_Finn [Content]
   Paradoxismus (JxhnnyGHG) [Moderation]
-  FourJustv3 [Public Relations]
+  FourJustv3 [Content]
 Senior Development:
   Kevinyo123
     Ingame
 Development:
   Gamer_Bjoern
-Game-Design:
-  DerGecko92
 Senior Moderation:
   Melone313
 Moderation:
   MeldronFNA
   Legond (LegendLoveCR)
-Design:
-  TheDripInPerson
-  MS:UltraCypher122
+Content:
+  Design:
+    TheDripInPerson
+    MS:UltraCypher122
+  Game-Design:
+    DerGecko92
